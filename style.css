@@ -1,0 +1,25 @@
+body {
+	background-color: #15191a;
+	background: url(https://cosmos-images2.imgix.net/file/spina/photo/20565/191010_nature.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+canvas {
+	display: block;
+	margin: 0 auto;
+	border: 10px solid #10a3a8;
+	border-radius: 5%;
+	cursor: pointer;
+}
+.container {
+	display: block;
+	text-align: center;
+}
+h1 {
+	font-family: sans-serif;
+	color: #10a3a8;
+}
+h2 {
+	font-family: sans-serif;
+	color: #1a10a8;
+}
